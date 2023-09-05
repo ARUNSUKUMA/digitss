@@ -10,4 +10,4 @@ tensorflow
 Pillow
 streamlit-drawable-canvas
 pip
-opencv-python==4.5.3
+opencv-python
