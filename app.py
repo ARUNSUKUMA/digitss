@@ -2,7 +2,7 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from PIL import Image
-import cv2  # Import OpenCV for image operations
+import cv2  
 from streamlit_drawable_canvas import st_canvas
 
 # Load the trained model
