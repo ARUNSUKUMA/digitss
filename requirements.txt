@@ -8,3 +8,10 @@ joblib==0.16.0
 scikit-learn
 tensorflow
 opencv-python==4.5.3.56
+streamlit==0.87.0
+tensorflow==2.6.0
+numpy==1.19.5
+Pillow==8.2.0
+opencv-python==4.5.3.56
+streamlit-drawable-canvas==0.6.1
+
