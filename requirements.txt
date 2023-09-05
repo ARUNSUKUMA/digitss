@@ -7,8 +7,7 @@ pandas
 joblib
 scikit-learn
 tensorflow
-opencv-python
 Pillow
-opencv-python
 streamlit-drawable-canvas
 pip
+opencv-python==4.5.3
