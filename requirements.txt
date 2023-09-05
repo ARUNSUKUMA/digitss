@@ -10,5 +10,5 @@ tensorflow
 opencv-python==4.5.3.56
 Pillow==8.2.0
 opencv-python==4.5.3.56
-streamlit-drawable-canvas==0.6.1
-
+streamlit-drawable-canvas==0.9.3
+pip install -r requirements.txt --upgrade
