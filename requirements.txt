@@ -10,6 +10,5 @@ tensorflow
 Pillow
 streamlit-drawable-canvas
 pip
-opencv-python
-pip install opencv-python
+opencv-pytho
 
