@@ -10,5 +10,5 @@ tensorflow
 Pillow
 streamlit-drawable-canvas
 pip
-opencv-pytho
+opencv-python
 
