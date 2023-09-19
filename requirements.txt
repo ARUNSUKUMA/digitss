@@ -9,6 +9,5 @@ scikit-learn
 tensorflow
 Pillow
 streamlit-drawable-canvas
-pip
 opencv-python
 
